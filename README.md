@@ -1,6 +1,6 @@
 # CVPR 2022
 
-# [Career after PhD](https://cvpr2022.thecvf.com/jobs?page=1)
+# [Career after Ph.D](https://cvpr2022.thecvf.com/jobs?page=1)
 
 # CVPR 2021
 
