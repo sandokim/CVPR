@@ -23,7 +23,7 @@ Presentation category
 * Contactless Health Monitoring using Cameras and Wireless Sensors / Wenjin Wang, Xuyu Wang, Shiwen Mao
 * Deep Visual Similarity and Metric Learning / Timo Milbich, Jenny Seidenschwarz, Ismail Elezi, Laura Leal-Taixe, Björn Ommer
 * Recent Advances in Vision-and-Language Pre-training / Zhe Gan, Linjie Li, Chunyuan Li, Jianwei Yang, Pengchuan Zhang, Lijuan Wang, Zicheng Liu, Jianfeng Gao
-* #### Denoising Diffusion-based Generative Modeling: Foundations and Applications / Karsten Kreis, Ruiqi Gao, Arash Vahdat
+* #### [Denoising Diffusion-based Generative Modeling: Foundations and Applications / Karsten Kreis, Ruiqi Gao, Arash Vahdat](https://cvpr2022-tutorial-diffusion-models.github.io/) 
 * Multimodal Machine Learning / Louis-Philippe Morency, Paul Pu Liang, Amir Zadeh
 * Neural Fields in Computer Vision / Yiheng Xie, Towaki Takikawa, Shunsuke Saito, Or Litany, James Tompkin, Vincent Sitzmann, Srinath Sridhar
 * #### Evaluating Models Beyond the Textbook: Out-of-distribution and Without Labels / Liang Zheng, Ludwig Schmidt, Aditi Raghunathan, Weijian Deng
