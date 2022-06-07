@@ -18,7 +18,7 @@ Presentation category
 
 * Sparsity Learning in Neural Networks and Robust Statistical Analysis / Yanwei Fu, Xinwei Sun, Yao Yuan, Wotao Yin
 * Performance Measures in Visual Detection and Their Optimization / Emre Akbas, Sinan Kalkan, Kemal Oksuz
-* Beyond Convolutional Neural Networks / Neil Houlsby, Alexey Dosovitskiy, Alexander Kolesnikov, Xiaohua Zhai
+* #### [Beyond Convolutional Neural Networks / Neil Houlsby, Alexey Dosovitskiy, Alexander Kolesnikov, Xiaohua Zhai](https://sites.google.com/view/cvpr-2022-beyond-cnn)
 * #### Medical Diagnosis Using Computer Vision: Foundations, Advances, Challenges / Soheila Borhani, Reza Borhani, Aggelos K. Katsaggelos
 * Contactless Health Monitoring using Cameras and Wireless Sensors / Wenjin Wang, Xuyu Wang, Shiwen Mao
 * Deep Visual Similarity and Metric Learning / Timo Milbich, Jenny Seidenschwarz, Ismail Elezi, Laura Leal-Taixe, Björn Ommer
