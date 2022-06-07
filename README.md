@@ -1,5 +1,19 @@
 # CVPR 2022
 
+Presentation category
+
+* Machine Learning
+* Statistical Methods
+* Optimization Methods
+* Deep Learning Architecture & Techniques
+* Recognition : Detection, Categorization, Retrieval
+* Segmentation, Grouping and Shape Analysis
+* 3D From Single Images
+* Photogrammetry and Remote Sensing
+* Low-Level Vision
+* Behavior Analysis
+* Vision Applications & Systems
+
 # [Career after Ph.D](https://cvpr2022.thecvf.com/jobs?page=1)
 
 # CVPR 2021
