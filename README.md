@@ -14,6 +14,28 @@ Presentation category
 * Behavior Analysis
 * Vision Applications & Systems
 
+## Program -> [Tutorial Selections](https://cvpr2022.thecvf.com/tutorial-selections)
+
+* Sparsity Learning in Neural Networks and Robust Statistical Analysis / Yanwei Fu, Xinwei Sun, Yao Yuan, Wotao Yin
+* Performance Measures in Visual Detection and Their Optimization / Emre Akbas, Sinan Kalkan, Kemal Oksuz
+* Beyond Convolutional Neural Networks / Neil Houlsby, Alexey Dosovitskiy, Alexander Kolesnikov, Xiaohua Zhai
+* Medical Diagnosis Using Computer Vision: Foundations, Advances, Challenges / Soheila Borhani, Reza Borhani, Aggelos K. Katsaggelos
+* Contactless Health Monitoring using Cameras and Wireless Sensors / Wenjin Wang, Xuyu Wang, Shiwen Mao
+* Deep Visual Similarity and Metric Learning / Timo Milbich, Jenny Seidenschwarz, Ismail Elezi, Laura Leal-Taixe, Björn Ommer
+* Recent Advances in Vision-and-Language Pre-training / Zhe Gan, Linjie Li, Chunyuan Li, Jianwei Yang, Pengchuan Zhang, Lijuan Wang, Zicheng Liu, Jianfeng Gao
+* #### Denoising Diffusion-based Generative Modeling: Foundations and Applications / Karsten Kreis, Ruiqi Gao, Arash Vahdat
+* Multimodal Machine Learning / Louis-Philippe Morency, Paul Pu Liang, Amir Zadeh
+* Neural Fields in Computer Vision / Yiheng Xie, Towaki Takikawa, Shunsuke Saito, Or Litany, James Tompkin, Vincent Sitzmann, Srinath Sridhar
+* #### Evaluating Models Beyond the Textbook: Out-of-distribution and Without Labels / Liang Zheng, Ludwig Schmidt, Aditi Raghunathan, Weijian Deng
+* Vision-based Robot Learning / Michael Ryoo, Andy Zeng, Pete Florence, Shuran Song
+* #### High-degree polynomial networks for image generation and recognition / Grigorios Chrysos, Markos Georgopoulos, Razvan Pascanu, Volkan Cevher
+* Human-centered AI for Computer Vision / Bolei Zhou; Olga Russakovsky
+* Graph Machine Learning for Visual Computing / Guohao Li, Guocheng Qian, Jesus Zarzar, Silvio Giancola, Ali Thabet, Matthias Muller, Federico Tombari, Bernard Ghanem
+* Creating and Using Synthetic Data for Computer Vision Applications - Rendered.ai / Nathan Kundtz, Chris Andrews, Matt Robinson, Sam Kulkarni, Dan Hedges
+* Computational Imaging / Laura Waller, Katie Bouman, Aviad Levis
+* Remote Sensing for Agriculture and Food Security / Hannah Kerner, Catherine Nakalembe
+* Representation Learning and Algorithmic Fairness / Sanmi Koyejo
+
 # [Career after Ph.D](https://cvpr2022.thecvf.com/jobs?page=1)
 
 # CVPR 2021
