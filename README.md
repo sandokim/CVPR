@@ -19,7 +19,7 @@ Presentation category
 * Sparsity Learning in Neural Networks and Robust Statistical Analysis / Yanwei Fu, Xinwei Sun, Yao Yuan, Wotao Yin
 * Performance Measures in Visual Detection and Their Optimization / Emre Akbas, Sinan Kalkan, Kemal Oksuz
 * Beyond Convolutional Neural Networks / Neil Houlsby, Alexey Dosovitskiy, Alexander Kolesnikov, Xiaohua Zhai
-* Medical Diagnosis Using Computer Vision: Foundations, Advances, Challenges / Soheila Borhani, Reza Borhani, Aggelos K. Katsaggelos
+* #### Medical Diagnosis Using Computer Vision: Foundations, Advances, Challenges / Soheila Borhani, Reza Borhani, Aggelos K. Katsaggelos
 * Contactless Health Monitoring using Cameras and Wireless Sensors / Wenjin Wang, Xuyu Wang, Shiwen Mao
 * Deep Visual Similarity and Metric Learning / Timo Milbich, Jenny Seidenschwarz, Ismail Elezi, Laura Leal-Taixe, Björn Ommer
 * Recent Advances in Vision-and-Language Pre-training / Zhe Gan, Linjie Li, Chunyuan Li, Jianwei Yang, Pengchuan Zhang, Lijuan Wang, Zicheng Liu, Jianfeng Gao
